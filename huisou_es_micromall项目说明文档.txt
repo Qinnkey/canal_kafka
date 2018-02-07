@@ -1,0 +1,1 @@
+huisou_es_micromall项目为微商城es搜索系统，采用canal+kafka+es架构模式。
